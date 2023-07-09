@@ -1,6 +1,8 @@
 # FishyGame
 ## Web development project
 
+Link to play : https://shrutisharma-27.github.io/FishyGame/
+
 Screenshots of game :
 
 <img width="1440" alt="start_website" src="https://user-images.githubusercontent.com/53565103/214894681-886e4e3e-6f45-45ef-90cb-518a81ae6af8.png">
